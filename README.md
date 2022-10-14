@@ -22,6 +22,10 @@
 
 <h2>Objective:</h2>
 
+<p>The aim of this project is to create a tire detection model based on the data. In the creation of this object detection model, <i>ResNet50</i> and <i>Object Detection API</i> have been used.</p>
+
+<img src="wheel_test.gif" height=200 width=200/>
+
 <ul>
 	<li>Installling necessery libraries and models.</li>
 	<li>Build wheel detection model with ResNet50</li>
@@ -60,14 +64,6 @@
 </ul>
 
 <br>  
-
-<h2>Objective for this Notebook</h2>  
-
-<p>The aim of this project is to create a tire detection model based on the data. In the creation of this object detection model, <i>ResNet50</i> and <i>Object Detection API</i> have been used.</p>
-
-<img src="wheel_test.gif" height=200 width=200/>
-
-<br>
 
 <h2>Required Inputs</h2>
 
