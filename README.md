@@ -46,14 +46,6 @@
 
 <br>
 
-<h2>Dataset License</h2>
-
-<ul>
-	<li>CC BY-NC-SA 4.0</li>
-</ul>
-
-<br>
-
 <h2>Required Inputs</h2>
 
 <p>Install TensorFlow</p>
