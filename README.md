@@ -54,17 +54,6 @@
 
 <br>
 
-<h2>Refecences</h2>
-
-<ul>
-	<li><a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a></li>
-	<li><a  href="https://laurencemoroney.com/">Laurence Moroney</a></li>
-	<li><a  href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow#instructors">Advanced Computer Vision with TensorFlow</a></li>
-	<li><a  href="https://github.com/tensorflow/models">TensorFlow GitHub</a></li>
-</ul>
-
-<br>  
-
 <h2>Required Inputs</h2>
 
 <p>Install TensorFlow</p>
@@ -92,6 +81,17 @@
 	!wget http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz
 	!tar -xf ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz
 	!mv ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/checkpoint models/research/object_detection/test_data/
+
+<br>
+
+<h2>Refecences</h2>
+
+<ul>
+	<li><a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a></li>
+	<li><a  href="https://laurencemoroney.com/">Laurence Moroney</a></li>
+	<li><a  href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow#instructors">Advanced Computer Vision with TensorFlow</a></li>
+	<li><a  href="https://github.com/tensorflow/models">TensorFlow GitHub</a></li>
+</ul>
 
 <br>
 
