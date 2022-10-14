@@ -1,8 +1,8 @@
 <h1 align=center><font size = 5>Wheel Detection with ResNet50 and Object Detection API</font></h1>
 
-<img  src="https://www.automoblog.net/wp-content/uploads/2020/09/AdobeStock_88569445.jpeg" height=500 width=1000 alt="TireRack">
+<img  src="https://www.automoblog.net/wp-content/uploads/2020/09/AdobeStock_88569445.jpeg" height=500 width=1000 alt="automoblog">
 
-<small>Picture Source:<a  href="https://www.tirerack.com/content/tirerack/desktop/en/packages.html"> TireRack</a>
+<small>Picture Source:<a  href="https://www.automoblog.net/"> automoblog</a>
 
 <br>
 
@@ -65,7 +65,7 @@
 
 <p>The aim of this project is to create a tire detection model based on the data. In the creation of this object detection model, <i>ResNet50</i> and <i>Object Detection API</i> have been used.</p>
 
-<img src="wheel_test.gif"/>
+<img src="wheel_test.gif" height=500 width=500/>
 
 <br>
 
