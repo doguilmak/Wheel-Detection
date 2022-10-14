@@ -16,7 +16,7 @@
 
 <h2>Acknowledgements</h2>
 
-<p>This dataset has been referred from <a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a>.</p>
+<p>This dataset and information about dataset have been referred from <a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a>.</p>
 
 <br>
 
