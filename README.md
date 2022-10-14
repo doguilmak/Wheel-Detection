@@ -65,7 +65,7 @@
 
 <p>The aim of this project is to create a tire detection model based on the data. In the creation of this object detection model, <i>ResNet50</i> and <i>Object Detection API</i> have been used.</p>
 
-<img src="wheel_test.gif" height=500 width=500/>
+<img src="wheel_test.gif" height=200 width=200/>
 
 <br>
 
