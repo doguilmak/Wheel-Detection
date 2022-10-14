@@ -1,6 +1,6 @@
 <h1 align=center><font size = 5>Wheel Detection with ResNet50 and Object Detection API</font></h1>
 
-<img  src="https://www.tirerack.com/content/dam/tirerack/desktop/Open_Graph_Images/og_TireWheelPkg.jpg"  alt="TireRack">
+<img  src="https://www.tirerack.com/content/dam/tirerack/desktop/Open_Graph_Images/og_TireWheelPkg.jpg" height=500 width=1000 alt="TireRack">
 
 <small>Picture Source:<a  href="https://www.tirerack.com/content/tirerack/desktop/en/packages.html"> TireRack</a>
 
