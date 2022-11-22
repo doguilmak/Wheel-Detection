@@ -18,7 +18,15 @@
 
 <p>This dataset and information about dataset have been referred from <a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a>.</p>
 
-<br>
+<h2>Keywords</h2>
+
+<ul>
+	<li>Automobile and Vehicle</li>
+	<li>Object Detection</li>
+	<li>Computer Vision</li>
+	<li>SSD ResNet50</li>
+	<li>Object Detection API</li>
+</ul>
 
 <h2>Objective:</h2>
 
@@ -30,19 +38,11 @@
 	<li>Build ground truth boxes with <code>colab_utils.annotate</code>.</li>
 </ul>
 
-<img src="wheel_test.gif" height=200 width=200/>	
-	
 <br>
 
-<h2>Keywords</h2>
-
-<ul>
-	<li>Automobile and Vehicle</li>
-	<li>Object Detection</li>
-	<li>Computer Vision</li>
-	<li>SSD ResNet50</li>
-	<li>Object Detection API</li>
-</ul>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/doguilmak/Wheel-Detection/main/wheel_test.gif" height=400 width=400/>	
+</div>
 
 <br>
 
