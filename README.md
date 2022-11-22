@@ -18,6 +18,8 @@
 
 <p>This dataset and information about dataset have been referred from <a  href="https://www.kaggle.com/datasets/rhammell/full-vs-flat-tire-images">Kaggle</a>.</p>
 
+<br>
+
 <h2>Keywords</h2>
 
 <ul>
@@ -27,6 +29,8 @@
 	<li>SSD ResNet50</li>
 	<li>Object Detection API</li>
 </ul>
+
+<br>
 
 <h2>Objective:</h2>
 
